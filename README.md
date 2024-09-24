@@ -1,1 +1,36 @@
 # datafun-06-eda
+
+## Overview
+```
+Project 6 is an opportunity to create your own custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
+```
+## Create Files
+```
+.gitignore
+README.md
+requirements.txt
+```
+
+## External Dependencies
+```
+jupyterlab
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+```
+
+## Steps for EDA
+Perform exploratory data analysis (EDA) using pandas and other tools as needed.
+
+```
+Data Acquisition
+Initial Data Inspection
+Initial Descriptive Statistics
+Initial Data Distribution for Numerical Columns
+Initial Data Distribution for Categorical Columns
+Initial Data Transformation and Feature Engineering
+Initial Visualizations
+Initial Storytelling and Presentation
+```
