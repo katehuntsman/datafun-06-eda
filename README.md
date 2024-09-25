@@ -23,7 +23,7 @@ seaborn
 
 ## Dataset Description
 ```
-The penguins dataset is one that is used for exploratory data analysis. It includes information regarding the species, body statistics, gender, native island.
+The penguins dataset is one that is used for exploratory data analysis. It includes information regarding the species, body statistics, gender, native island. 
 
 https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv
 ```
@@ -40,4 +40,9 @@ Initial Data Distribution for Categorical Columns
 Initial Data Transformation and Feature Engineering
 Initial Visualizations
 Initial Storytelling and Presentation
+```
+
+## Project Conclusion
+```
+This EDA highlighted distinct patterns in the Penguins dataset, demonstrating clear differences among species based on morphological traits. The visualizations provided insights into relationships between various attributes and the overall structure of the dataset.
 ```
